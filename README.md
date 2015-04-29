@@ -24,14 +24,13 @@ Created by [Adam Goodman](https://twitter.com/akgood) of [Duo Labs](https://labs
 
 **Inquiries?**
 
-PR Inquiries: [this.is.a.really.big.deal@duosecurity.com](mailto:this.is.a.really.big.deal@duosecurity.com)
-
-Technical Inquiries: [this.isnt.a.big.deal.but.you.should.still.patch@duosecurity.com](mailto:this.isnt.a.big.deal.but.you.should.still.patch@duosecurity.com)
-
+PR Inquiries: [this.is.a.really.big.deal@duosecurity.com](mailto:this.is.a.really.big.deal@duosecurity.com)  
+Technical Inquiries: [this.isnt.a.big.deal.but.you.should.still.patch@duosecurity.com](mailto:this.isnt.a.big.deal.but.you.should.still.patch@duosecurity.com)  
 Twitters: [@duo\_labs](https://twitter.com/duo_labs)
 
 ### References
 
-[http://www.openwall.com/lists/oss-security/2015/04/29/4](http://www.openwall.com/lists/oss-security/2015/04/29/4)
-[http://www.ocert.org/advisories/ocert-2015-003.html](http://www.ocert.org/advisories/ocert-2015-003.html)
+[https://www.duosecurity.com/blog/backronym-mysql-vulnerability](https://www.duosecurity.com/blog/backronym-mysql-vulnerability)  
+[http://www.openwall.com/lists/oss-security/2015/04/29/4](http://www.openwall.com/lists/oss-security/2015/04/29/4)  
+[http://www.ocert.org/advisories/ocert-2015-003.html](http://www.ocert.org/advisories/ocert-2015-003.html)  
 [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-3152](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-3152)
