@@ -25,7 +25,9 @@ Created by [Adam Goodman](https://twitter.com/akgood) of [Duo Labs](https://labs
 **Inquiries?**
 
 PR Inquiries: [this.is.a.really.big.deal@duosecurity.com](mailto:this.is.a.really.big.deal@duosecurity.com)
+
 Technical Inquiries: [this.isnt.a.big.deal.but.you.should.still.patch@duosecurity.com](mailto:this.isnt.a.big.deal.but.you.should.still.patch@duosecurity.com)
+
 Twitters: [@duo\_labs](https://twitter.com/duo_labs)
 
 ### References
