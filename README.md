@@ -5,7 +5,7 @@ MySQL traffic and strip SSL/TLS, as per [CVE-2015-3152](http://www.openwall.com/
 
 ## Usage
 
-`mysslstrip.py \[-h\] \[-p LISTEN\_PORT\] \[-i LISTEN\_INTERFACE\] dest`
+`mysslstrip.py [-h] [-p LISTEN_PORT] [-i LISTEN_INTERFACE] dest`
 
 ## Additional Information
 
