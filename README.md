@@ -33,6 +33,8 @@ MySQL traffic and strip SSL/TLS, as per [CVE-2015-3152](http://www.openwall.com/
 
 Yes! Encrypt all the things. Allowing opportunistic degradation of encryption is pretty poor practice.
 
+The vulnerability affects MySQL 5.7.2 and earlier versions, along with MySQL Connector versions 6.1.2 and earlier, all versions of Percona Server and all versions of MariaDB.
+
 **Patch?**
 
 It's been fixed in [MySQL 5.7.3](http://dev.mysql.com/doc/relnotes/mysql/5.7/en/news-5-7-3.html) ... but the security
