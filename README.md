@@ -38,7 +38,7 @@ The vulnerability affects MySQL 5.7.2 and earlier versions, along with MySQL Con
 **Patch?**
 
 It's been fixed in [MySQL 5.7.3](http://dev.mysql.com/doc/relnotes/mysql/5.7/en/news-5-7-3.html) ... but the security
-patch hasn't been backported to any other version, so if you're on 5.6 like 99.99% of the Internet is, you're out of
+patch hasn't been backported to any other version, so if you're on 5.6 like [99.99%](https://scans.io/data/umich/dadrian/backronym/banners.mysql.20150429.json) of the Internet is, you're out of
 luck unless you switch to the 5.7 "preview release".
 
 Created by [Adam Goodman](https://twitter.com/akgood) of [Duo Labs](https://labs.duosecurity.com).
