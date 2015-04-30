@@ -51,6 +51,7 @@ Twitters: [@duo\_labs](https://twitter.com/duo_labs)
 
 ### References
 
+[https://backronym.fail](https://backronym.fail)  
 [https://www.duosecurity.com/blog/backronym-mysql-vulnerability](https://www.duosecurity.com/blog/backronym-mysql-vulnerability)  
 [http://www.openwall.com/lists/oss-security/2015/04/29/4](http://www.openwall.com/lists/oss-security/2015/04/29/4)  
 [http://www.ocert.org/advisories/ocert-2015-003.html](http://www.ocert.org/advisories/ocert-2015-003.html)  
